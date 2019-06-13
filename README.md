@@ -1,1 +1,1 @@
-# happy-cube-dude
+# Happy Cube Dude
